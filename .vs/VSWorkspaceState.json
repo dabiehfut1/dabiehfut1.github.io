@@ -1,8 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\img"
+    "\\img",
+    "\\img\\1920x1080",
+    "\\img\\397x400",
+    "\\img\\800x400",
+    "\\vendor",
+    "\\vendor\\bootstrap",
+    "\\vendor\\bootstrap\\fonts",
+    "\\vendor\\bootstrap\\js",
+    "\\vendor\\masonry"
   ],
-  "SelectedNode": "\\img",
+  "SelectedNode": "\\index.html",
   "PreviewInSolutionExplorer": false
 }
